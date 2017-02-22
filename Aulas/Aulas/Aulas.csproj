@@ -43,9 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Controller\ArtigoController.cs" />
-    <Compile Include="Controller\OrcamentoController.cs" />
-    <Compile Include="Controller\PlataformaController.cs" />
+    <Compile Include="Controllers\ArtigoController.cs" />
+    <Compile Include="Controllers\OrcamentoController.cs" />
+    <Compile Include="Controllers\PlataformaController.cs" />
     <Compile Include="Models\Artigo.cs" />
     <Compile Include="Models\Menu.cs" />
     <Compile Include="Models\Orcamento.cs" />

@@ -4,13 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Aulas.Models
+namespace Aulas.Controllers
 {
-    public enum Menu
+    public class OrcamentoController
     {
-        Invalido,
-        InserirArtigo,
-        ListarArtigos,
-        Sair
+
     }
 }
